@@ -24,7 +24,7 @@
 
 如果不填，将默认为 4.15.0。
 
-## 注意
+## 注意 
 
 **出于安全考量，Openshift 配置 V2Ray 成功之后，请在 `Route` 一项中勾选 `Secure Route` 以实现 V2Ray Websocket + TLS。**
 
